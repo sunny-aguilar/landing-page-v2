@@ -16,13 +16,15 @@ body {
     color: #ea1c2c;
 }
 
+#main-navbar .nav-link:hover {
+    color: #ea1c2c;
+}
+
 #main-navbar .nav-link {
     color: white;
 }
 
-#main-navbar .nav-link:hover {
-    color: #ea1c2c;
-}
+
 
 
 
