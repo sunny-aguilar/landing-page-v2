@@ -11,3 +11,12 @@ body {
     color: #ea1c2c;
 }
 
+#main-navbar .nav-link {
+    color: white;
+}
+
+#main-navbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
