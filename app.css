@@ -15,6 +15,10 @@ body {
     color: white;
 }
 
+#main-navbar .nav-link:hover {
+    color: white;
+}
+
 #main-navbar {
     font-size: 1.5rem;
     font-weight: 100;
