@@ -12,19 +12,17 @@ body {
     font-weight: 100;
 }
 
-#main-navbar .navbar-brand {
-    color: #ea1c2c;
+#main-navbar .nav-link {
+    color: white;
 }
 
 #main-navbar .nav-link:hover {
     color: #ea1c2c;
 }
 
-#main-navbar .nav-link {
-    color: white;
+#main-navbar .navbar-brand {
+    color: #ea1c2c;
 }
-
-
 
 
 
