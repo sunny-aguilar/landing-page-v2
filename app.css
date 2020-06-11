@@ -1,4 +1,8 @@
 
+/* embed font */
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
 body {
     background: #f5d9df;
+    font-family: "Nunito", sans-serif;
 }
