@@ -31,6 +31,12 @@ body {
 
 #heading-group h1 {
     font-weight: 100;
-    font-size: 3rem;
+    font-size: 4rem;
+}
+
+@media (max-width: 1300px) {
+    body {
+        background-color: orange;
+    }
 }
 
