@@ -35,8 +35,9 @@ body {
 }
 
 @media (max-width: 1360px) {
-    body {
-        background-color: orange;
+    #heading-group h1 {
+        font-weight: 100;
+        font-size: 3rem;
     }
 }
 
