@@ -34,7 +34,7 @@ body {
     font-size: 4rem;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1360px) {
     body {
         background-color: orange;
     }
