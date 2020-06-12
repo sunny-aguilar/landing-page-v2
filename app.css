@@ -51,6 +51,10 @@ body {
     font-size: 4rem;
 }
 
+.navbar .scroll {
+    background-color: rgb(222,192,222);
+}
+
 @media (max-width: 1220px) {
     #heading-group h1 {
         font-weight: 100;
