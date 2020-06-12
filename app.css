@@ -20,6 +20,10 @@ body {
     line-height: 2;
 }
 
+.content {
+    margin-top: 100px;
+}
+
 #main-navbar {
     font-size: 1.5rem;
     font-weight: 100;
