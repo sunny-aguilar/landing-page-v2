@@ -31,13 +31,19 @@ body {
 
 #heading-group h1 {
     font-weight: 100;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1220px) {
     #heading-group h1 {
         font-weight: 100;
-        font-size: 2rem;
+        font-size: 3rem;
     }
 }
 
+@media (max-width: 1000px) {
+    #heading-group h1 {
+        font-weight: 100;
+        font-size: 1rem;
+    }
+}
