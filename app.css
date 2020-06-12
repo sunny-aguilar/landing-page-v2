@@ -7,6 +7,10 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
+h2 {
+    color: #f5d9df;
+}
+
 #main-navbar {
     font-size: 1.5rem;
     font-weight: 100;
